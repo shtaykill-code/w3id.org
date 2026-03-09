@@ -153,6 +153,6 @@ your Web application, please send an e-mail to the
 ### Disclaimer
 
 The letters 'w3' in the domain name for this site stand for "World Wide
-Web". Other than hosting the software for the Permanent Identifier
+Web". Other than hosting the softwre for the Permanent Identifier
 Community Group, the "World Wide Web Consortium" (W3C) is not involved
 in the support or management of this website in any way.
